@@ -1,0 +1,20 @@
+.h1{
+  text-align: center;
+  color: orange;
+  background-color: purple
+}
+
+.h2{
+  color: red;
+  background-color: pink
+}
+
+.Skills{
+  color: white;
+  background-color: green
+}
+
+.legacy{
+  color: yellow;
+  background-color: red
+}
